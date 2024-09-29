@@ -1,4 +1,4 @@
-# Energy Visualization with Plotly
+# Day-ahead Energy Production Visualization with Plotly
 
 Welcome to the **Energy Visualization with Plotly** repository! This series focuses on creating interactive visualizations of energy data using Plotly and DASH frameworks. The goal is to provide insightful and visually appealing representations of energy production, consumption, and market trends, promoting better understanding and decision-making in the energy sector.
 
